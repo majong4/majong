@@ -1,0 +1,2 @@
+# majong
+Hack.py
